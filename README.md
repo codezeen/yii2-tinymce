@@ -80,7 +80,6 @@ $form->field($model, 'content')->widget(
 )
 ```
 
-## More Information About TinyMCE
+More Information About TinyMCE
 -----
-
 Please, check the [TinyMCE plugin site](http://www.tinymce.com/wiki.php/Configuration) documentation for more options.
