@@ -1,6 +1,6 @@
-TinyMCE Extension for Yii2
+Yii2 TinyMCE
 ==========================
-TinyMCE extension for Yii2 with compressor for editor
+TinyMCE Extension For Yii2 With Compressor
 
 Installation
 ------------
